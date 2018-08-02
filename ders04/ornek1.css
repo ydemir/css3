@@ -1,0 +1,5 @@
+/* @import "ornek2.css"; */
+
+/* yukarıdaki gibi yada aşağıdaki gbi farklı css dosyalarını ekleyebiliyoruz. */
+
+@import url(ornek2.css);
